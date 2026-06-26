@@ -3,9 +3,9 @@
 <!-- ✨ ANIMATED HEADER BANNER ✨ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:F093FB&height=250&section=header&text=Rama%20Sai%20Avinash&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%9C%A6%20Full-Stack%20Developer%20%E2%9C%A6%20Cloud%20Architect&descSize=18&descAlignY=58&descAlign=50&animation=fadeIn" width="100%"/>
 
-<!-- 🎨 PROFILE PICTURE WITH GLOW EFFECT 🎨 -->
+<!-- 🎨 PROFILE PICTURE 🎨 -->
 <a href="https://github.com/ramsaiavinash">
-  <img src="https://github.com/ramsaiavinash.png" width="180" style="border-radius: 50%; border: 4px solid #8E2DE2; box-shadow: 0 0 30px #8E2DE2;" alt="Avinash"/>
+  <img src="https://github.com/ramsaiavinash.png" width="180" style="border-radius: 50%;" alt="Avinash"/>
 </a>
 
 <br/><br/>
@@ -210,7 +210,7 @@ Open-source migration error email notification tool with AI chatbot powered by G
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!-- 📊 GITHUB STATS 📊 -->
+<!-- 📊 GITHUB STATS (TRANSPARENT) 📊 -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Analytics
@@ -218,22 +218,22 @@ Open-source migration error email notification tool with AI chatbot powered by G
 <div align="center">
 
 <a href="https://github.com/ramsaiavinash">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramsaiavinash&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F093FB&icon_color=8E2DE2&text_color=FFFFFF&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ramsaiavinash&show_icons=true&hide_border=true&bg_color=00000000&title_color=8E2DE2&icon_color=F093FB&text_color=6e7681&rank_icon=github" height="180"/>
 </a>
 <a href="https://github.com/ramsaiavinash">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ramsaiavinash&theme=radical&hide_border=true&background=0D1117&ring=F093FB&fire=8E2DE2&currStreakLabel=F093FB&sideLabels=FFFFFF&dates=AAAAAA" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ramsaiavinash&hide_border=true&background=00000000&ring=8E2DE2&fire=F093FB&currStreakLabel=8E2DE2&sideLabels=6e7681&dates=8b949e&stroke=8E2DE2&currStreakNum=8E2DE2&sideNums=8E2DE2" height="180"/>
 </a>
 
 <br/>
 
 <a href="https://github.com/ramsaiavinash">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramsaiavinash&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F093FB&text_color=FFFFFF&langs_count=10" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramsaiavinash&layout=compact&hide_border=true&bg_color=00000000&title_color=8E2DE2&text_color=6e7681&langs_count=10" height="180"/>
 </a>
 
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!-- 🏅 TROPHIES 🏅 -->
+<!-- 🏅 TROPHIES (TRANSPARENT) 🏅 -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🏅 GitHub Trophies
@@ -241,20 +241,20 @@ Open-source migration error email notification tool with AI chatbot powered by G
 <div align="center">
 
 <a href="https://github.com/ramsaiavinash">
-  <img src="https://github-profile-trophy.vercel.app/?username=ramsaiavinash&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ramsaiavinash&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=2&column=4&title_color=8E2DE2&text_color=6e7681" />
 </a>
 
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!-- 📈 ACTIVITY GRAPH 📈 -->
+<!-- 📈 ACTIVITY GRAPH (TRANSPARENT) 📈 -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ramsaiavinash&theme=react-dark&bg_color=0D1117&hide_border=true&color=F093FB&line=8E2DE2&point=FFFFFF&area=true&area_color=8E2DE2" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ramsaiavinash&bg_color=00000000&hide_border=true&color=8E2DE2&line=F093FB&point=8E2DE2&area=true&area_color=F093FB&title_color=8E2DE2" width="100%"/>
 
 </div>
 
@@ -275,14 +275,14 @@ Open-source migration error email notification tool with AI chatbot powered by G
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!-- 💭 QUOTE 💭 -->
+<!-- 💭 QUOTE (TRANSPARENT) 💭 -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 💭 Dev Quote of the Day
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
 
 </div>
 
