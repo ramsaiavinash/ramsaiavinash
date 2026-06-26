@@ -48,7 +48,7 @@
 <!-- 🚀 ABOUT ME 🚀 -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Avinash" width="320" src="https://raw.githubusercontent.com/ramsaiavinash/ramsaiavinash/main/avinash-full.png" style="border-radius: 20px;"/>
 
 ## 🚀 About Me
 
